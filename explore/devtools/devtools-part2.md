@@ -1,0 +1,2 @@
+1) The bug was that the numbers inputted into the program were actually strings, so the sum function just concatenated the two strings. 
+2) I fixed it by typecasting that values of num1 and num2 to integers
